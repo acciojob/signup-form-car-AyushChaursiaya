@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 
-    body {
+    * {
         font-family: Arial, sans-serif;
         display: flex;
         justify-content: center;
